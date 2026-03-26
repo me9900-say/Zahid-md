@@ -2,7 +2,7 @@ require('dotenv').config();
 
 global.owner = process.env.OWNER_NUMBER.split(','); 
 global.anitav4 = process.env.BOT_NAME || "𓆩ZAIDI-MD𓆪";
-global.ownername = process.env.OWNER_NAME || "David Cyril";
+global.ownername = process.env.OWNER_NAME || "𓆩ZAIDI-MD𓆪";
 global.packname = process.env.PACK_NAME || "𓆩ZAIDI-MD𓆪";
 global.author = process.env.AUTHOR || "𓆩ZAIDI-MD𓆪";
 global.channelname = process.env.CHANNEL_NAME || "𓆩ZAIDI-MD𓆪";
